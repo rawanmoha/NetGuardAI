@@ -1,7 +1,7 @@
 import scapy.all as sc
 from collections import defaultdict
 import math
-import joblibb
+import joblib
 import csv
 
 class Sniffer:
